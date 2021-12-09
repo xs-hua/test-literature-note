@@ -34,7 +34,7 @@
 <img src="./img/ab-testing-overview.png"> [Kohavi 2009]
 
 
-
+<br/>
 
 
 
